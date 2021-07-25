@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class FileSystem {
 
     // FIXME ajustar para o caminho no PC do aluno
-    public static final String ROOT = "F:" + File.separator + "utfpr" + File.separator + "hd";
+    public static final String ROOT = "C:\\Users\\leopi\\OneDrive\\Curso Java\\2 JAVA 2\\Bloco 2 - 12-07-2021 - 23-07-2021 - IO API\\hd";
 
     public FileSystem() {
         executar();
